@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metamars0114" alt="metamars0114" /></a> </p>
 
 <p align="left> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<a href="https://app.daily.dev/Mars0114"><img src="https://api.daily.dev/devcards/bbc2a1201f974be0a31727239bbaba3b.png?r=2mg" width="400" alt="Mars Bryant's Dev Card"/></a>
 - 🔭 I’m currently working on [Metaverse Project.](https://d3fqtz6zjfopso.cloudfront.net)
 
 - 🌱 I’m currently learning **Unreal Engine now**
@@ -19,7 +19,7 @@
 - 📫 How to reach me **alinazvirdew@gmail.com**
 
 - ⚡ Fun fact **I think I am funny in game making**
-<a href="https://app.daily.dev/Mars0114"><img src="https://api.daily.dev/devcards/bbc2a1201f974be0a31727239bbaba3b.png?r=2mg" width="400" alt="Mars Bryant's Dev Card"/></a>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
