@@ -19,11 +19,12 @@
 - 📫 How to reach me **alinazvirdew@gmail.com**
 
 - ⚡ Fun fact **I think I am funny in game making**
-<a href="https://app.daily.dev/Mars0114"><img src="https://api.daily.dev/devcards/bbc2a1201f974be0a31727239bbaba3b.png?r=2mg" width="400" alt="Mars Bryant's Dev Card"/></a>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<a href="https://app.daily.dev/Mars0114"><img src="https://api.daily.dev/devcards/bbc2a1201f974be0a31727239bbaba3b.png?r=2mg" width="400" alt="Mars Bryant's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
