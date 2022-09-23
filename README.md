@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **alinazvirdew@gmail.com**
 
-- ⚡ Fun fact **I think I am funny in game making**
+- ⚡ Fun fact **I am funny in game making**
 
 
 ### Blogs posts
