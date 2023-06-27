@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mars Bryant</h1>
-<h3 align="center">A passionate Game & Blockchain developer</h3>
+<h3 align="center">A passionate Web & Game developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metamars0114&label=Profile%20views&color=0e75b6&style=flat" alt="metamars0114" /> </p>
@@ -8,7 +8,7 @@
 <a href="https://app.daily.dev/Mars0114"><img src="https://api.daily.dev/devcards/bbc2a1201f974be0a31727239bbaba3b.png?r=z9x" width="400" alt="Mars Bryant's Dev Card"/></a>
 <p align="left> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Metaverse Project.](https://d3fqtz6zjfopso.cloudfront.net)
+- 🔭 I’m currently working on [Metaverse Project.]
 
 - 🌱 I’m currently learning **Unreal Engine now**
 
@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **BUZZ developer**
 
-- 📫 How to reach me **alinazvirdew@gmail.com**
+- 📫 How to reach me **p2emetafox0311@gmail.com**  **live:.cid.ab116d7e2b664771**
 
-- ⚡ Fun fact **I am funny in game making**
+- ⚡ Fun fact **I am funny in web and game making**
 
 
 ### Blogs posts
